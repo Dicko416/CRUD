@@ -3,5 +3,6 @@
 - git commit -m 'description'
 - git push origin master
 
-
+- git checkout -b branchName ==> Pour creer un nouveau branch
+- 
 - git log --all --graph
